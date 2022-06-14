@@ -1,22 +1,11 @@
-# rli_template
-Template repository for creating new projects under the RLI's umbrella
+# cp_nigeria
+Repository to host code related to CP nigeria project
 
 ## Get started
 
-Simply click on the green `Use this template` button on the left of the `Clone or download` button.
-
-The detailed instructions to create a new repository from this template can be found [here](https://help.github.com/en/articles/creating-a-repository-from-a-template).
-
 ## src folder
 
-This folder is where you should place the code of your package (package name to be edited in `setup.py` under name)
-
-You can install it locally for developing with
-
-    python setup.py install
-    
-More details for packaging are available on [https://packaging.python.org](https://packaging.python.org/tutorials/packaging-projects/)
-
+Save the code in this folder, maybe in a sub folder if needed
 
 ## Docs
 
@@ -41,4 +30,4 @@ In this template, 3 possible linters are proposed:
 - pylint sends warnings and error about linting (PEP8) and also allows warning about imports order
 - black sends warning but can also fix the files for you
 
-You can perfectly use the 3 of them or subset, at your preference. Don't forget to edit `.travis.yml` if you want to deactivate the automatic testing of some linters!
+You can perfectly use the 3 of them or subset, at your preference.
